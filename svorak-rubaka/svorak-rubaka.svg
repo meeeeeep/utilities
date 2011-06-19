@@ -1,0 +1,298 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="27cm" height="9.2cm" viewBox="0 0 2700 920">
+<g>
+<rect width="160" height="160" x="20" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="45" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">§</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="200" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="225" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">1</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="380" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="405" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">2</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="560" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="585" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">3</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="740" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="765" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">4</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="920" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="945" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">5</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1260" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1285" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">6</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1440" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1465" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">7</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1620" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1645" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">8</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1800" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1825" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">9</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1980" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2005" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">0</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2160" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+</g>
+
+<g>
+<rect width="160" height="160" x="2340" y="20" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2365" y="120" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">´</text>
+</g>
+
+<g>
+<rect width="240.0" height="160" x="20" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="40" y="270" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">Tab</text>
+<text x="40" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;"></text>
+<text x="240.0" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;"></text>
+</g>
+
+<g>
+<rect width="160" height="160" x="280" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="305" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">Å</text>
+<text x="420" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">`</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="460" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="480" y="270" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">&lt;</text>
+<text x="480" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">,</text>
+<text x="600" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;">'</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="640" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="660" y="270" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">></text>
+<text x="660" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">.</text>
+<text x="780" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;">"</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="820" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="845" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">P</text>
+<text x="960" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">%</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1000" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1025" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">Y</text>
+<text x="1140" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">*</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1350" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1375" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">F</text>
+<text x="1490" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">^</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1530" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1555" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">G</text>
+<text x="1670" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">&amp;</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1710" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1735" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">C</text>
+<text x="1850" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">|</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1890" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1915" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">R</text>
+<text x="2030" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">!</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2070" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2095" y="300" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">L</text>
+<text x="2210" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">£</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2250" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2270" y="270" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">?</text>
+<text x="2270" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">/</text>
+<text x="2390" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;">\</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2430" y="200" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2450" y="270" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">+</text>
+<text x="2450" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">=</text>
+<text x="2570" y="340" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;">~</text>
+</g>
+
+<g>
+<rect width="320" height="160" x="20" y="380" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="40" y="450" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">Caps</text>
+<text x="40" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">Lock</text>
+<text x="320" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;"></text>
+</g>
+
+<g>
+<rect width="160" height="160" x="360" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="385" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">A</text>
+<text x="500" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">@</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="540" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="565" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">O</text>
+<text x="680" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">#</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="720" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="745" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">E</text>
+<text x="860" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">{</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="900" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="925" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">U</text>
+<text x="1040" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">(</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1080" y="380" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1105" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">I</text>
+<text x="1220" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">[</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1440" y="380" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1465" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">D</text>
+<text x="1580" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">]</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1620" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="1645" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">H</text>
+<text x="1760" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">)</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1800" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="1825" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">T</text>
+<text x="1940" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">}</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1980" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="2005" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">N</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2160" y="380" rx="16" ry="16" style="fill:#dddddd; stroke:#800000; stroke-width:5;" />
+<text x="2185" y="480" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">S</text>
+<text x="2300" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">$</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2340" y="380" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2360" y="450" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">_</text>
+<text x="2360" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">-</text>
+<text x="2480" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;">|</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2520" y="380" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2540" y="450" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">:</text>
+<text x="2540" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">;</text>
+<text x="2660" y="520" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;">¨</text>
+</g>
+
+<g>
+<rect width="240.0" height="160" x="20" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="40" y="630" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;">Shift</text>
+<text x="40" y="700" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold;"></text>
+<text x="240.0" y="700" style="fill:#000000; font-family:Luxi Sans; font-size:70; font-weight:bold; text-anchor:end;"></text>
+</g>
+
+<g>
+<rect width="160" height="160" x="280" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="305" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">Ö</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="460" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="485" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">Ä</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="640" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="665" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">Q</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="820" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="845" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">J</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1000" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1025" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">K</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1180" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1205" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">X</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1530" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1555" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">B</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1710" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1735" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">M</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="1890" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="1915" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">W</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2070" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2095" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">V</text>
+</g>
+
+<g>
+<rect width="160" height="160" x="2250" y="560" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+<text x="2275" y="660" style="fill:#000000; font-family:Luxi Sans; font-size:100; font-weight:bold;">Z</text>
+<text x="2390" y="700" style="fill:#000000; font-family:Luxi Sans; font-size:60; font-weight:bold; text-anchor:end;">¦</text>
+</g>
+
+<g>
+<rect width="1040.0" height="160" x="910" y="740" rx="16" ry="16" style="fill:#ffffff; stroke:#800000; stroke-width:5;" />
+</g>
+
+</svg>
